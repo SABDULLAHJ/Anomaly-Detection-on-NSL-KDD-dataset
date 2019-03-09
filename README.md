@@ -1,4 +1,4 @@
-# Anomaly-Detection-on-NSL-KDD-dataset
+# Anomaly-Detection-on-NSL-KDD-dataset using Machine Learning and Deep Learning models
 
 The NSL KDD Dataset is analysed using numpy, pandas,sklearn,matpoltlib and seaborn libraries. 
 I have used Jupyter notebook to make the analysis.
